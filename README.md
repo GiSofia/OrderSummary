@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository GitHub](https://github.com/GiSofia/OrderSummary)
+- Solution URL: [Repository GitHub](https://gisofia.github.io/OrderSummary/)
 - Live Site URL: [GitHub](https://gisofia.github.io/OrderSumary/)
 
 ## My process
