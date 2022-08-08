@@ -148,7 +148,7 @@ body{
     color: var(--Dark-blue);
 }
 
-@media(max-width: 375px){
+@media(max-width: 350px){
     .container-card{
         background-image: url('./images/pattern-background-mobile.svg');
         background-repeat: no-repeat;
@@ -180,5 +180,6 @@ body{
 @media(min-width: 1433px){
     .container-card{
         background-position: bottom 50vh right 0vw, left 48.05vw;
+        background-size: contain;
     }
 }
