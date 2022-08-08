@@ -50,7 +50,7 @@ Users should be able to:
 I learned to work with measures
 
 ```css
-@media(max-width: 350px){
+@media(max-width: 375px){
     .container-card{
         background-image: url('./images/pattern-background-mobile.svg');
         background-repeat: no-repeat;
